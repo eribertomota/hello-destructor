@@ -1,0 +1,7 @@
+To install Hello Destructor, follow these commands:
+
+./configure
+make
+make install
+
+Is that! Emjoy!
