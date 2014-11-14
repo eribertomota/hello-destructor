@@ -1,4 +1,3 @@
-.TH HELLO-DESTRUCTOR "8"  "Mai 2013" "HELLO-DESTRUCTOR 0.1" "the destructor of bad lifes"
 NAME
   hello-destructor - the destructor of bad lifes
 DESCRIPTION
@@ -7,6 +6,6 @@ DESCRIPTION
 
   hello-destructor is very very terible.
 HOW TO USE
-  Just type 'hello-destructor' at command line.
+  Just type 'hello-destructor' at comand line. (the right word is "command", not "comand"; but destructor is sovereign and doesn't follow human rules...)
 AUTHOR
   Hello Destructor was written by Joao Eriberto Mota Filho <eriberto@eriberto.pro.br>.
