@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Generate several manpages at the same time.
-# C 2014 Joao Eriberto Mota Filho <eriberto@debian.org>
+# Copyright 2014 Joao Eriberto Mota Filho <eriberto@debian.org>
 #
 # You can use this code in the same terms of the BSD-3-clause license or,
 # optionally, in the same terms of the GPL-3 license.
