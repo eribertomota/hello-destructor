@@ -4,9 +4,7 @@
 # C 2014 Joao Eriberto Mota Filho <eriberto@debian.org>
 #
 # You can use this code in the same terms of the BSD-3-clause license or,
-# optionally, in the same terms of the license used in debian/ directory
-# in this Debian package. Please, to the last option, refer the package
-# name when using.
+# optionally, in the same terms of the GPL-3 license.
 #
 # This script uses txt2man. You need 2 files: program_name.txt and
 # program_name.header.

@@ -9,3 +9,5 @@ This program is terrible...
 
 PS: this code can have some problems and was developed to help in Debian
     packaging lessons. Please, don't open bugs against this project.
+
+-------------------------------------------------
