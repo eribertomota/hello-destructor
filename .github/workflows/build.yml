@@ -1,0 +1,29 @@
+name: full-check
+
+on: [push, pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: show_ubuntu_version
+      run: lsb_release -a
+    - name: first_build
+      run: |
+           ./redo.sh
+           ./configure
+           make
+           sudo make install
+           sudo make uninstall
+           make distclean
+    - name: second_build
+      run: |
+           ./redo.sh
+           ./configure
+           make
+           sudo make install
+           sudo make uninstall
+           make distclean
