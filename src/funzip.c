@@ -55,7 +55,7 @@
    3.5    31 Oct 93  H. Gessau       changed DOS_OS2 to DOS_NT_OS2
    3.6     6 Dec 93  H. Gessau       added "near" to mask_bits[]
    3.7     9 Dec 93  G. Roelofs      added extent typecasts to fwrite() checks
-   3.8    28 Jan 94  GRR/JlG         initialized g variable in main() for gcc
+   3.8    28 Jan 94  GRR/Jl Gailly   initialized g variable in main() for gcc
    3.81   22 Feb 94  M. Hanning-Lee  corrected usage message
    3.82   27 Feb 94  G. Roelofs      added some typecasts to avoid warnings
    3.83   22 Jul 94  G. Roelofs      changed fprintf to FPRINTF for DLLs
